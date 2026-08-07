@@ -37,8 +37,7 @@ The interval boundaries should be selected based on the charging transitions vis
 <img width="622" height="242" alt="Screenshot 2026-08-06 at 9 24 47 PM" src="https://github.com/user-attachments/assets/75f39af1-9c32-4cd2-9a12-10d6b5945ab5" />
 <img width="622" height="242" alt="Screenshot 2026-08-06 at 9 25 17 PM" src="https://github.com/user-attachments/assets/996caac5-c03a-4d1b-9c34-cedcb1432d7b" />
 <img width="622" height="242" alt="Screenshot 2026-08-06 at 9 25 38 PM" src="https://github.com/user-attachments/assets/c2225087-758d-42e8-9286-6fc6dc1599a4" />
-<img width="429" height="178" alt="Screenshot 2026-08-06 at 9 28 34 PM" src="https://github.com/user-attachments/assets/ef9a9d31-5ae7-429f-8158-3dcae6a1161c" />
-<img src="images/task3-summary-table.png" width="429" height = "178">
+<img src="Images/task3-summary-table.png" width="429" height = "178">
 
 See attached pdf of "BatteryCharging_StudentProjectTemplate" in the GitHub repository.
   
