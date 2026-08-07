@@ -12,7 +12,10 @@ Lithium-Ion battery charging involves non-linear changes in current and voltage 
 To run the battery charging profile model, the MATLAB Curve Fitting Toolbox is necessary. After installing the toolbox, the program should work as intended. To run the program, open the MATLAB Live Script file and click the Run button.
 
 # How to reproduce results
-[Quan]
+Step 1: Open BatteryCharging_StudentProjectTemplate.mlx in MATLAB.
+Step 2: Install the Curve Fitting Toolbox if not installed it yet.
+Step 3: Run the entire Live Script from task 1 to task 3 (entire section).
+Step 4: Finnally, the script will load the battery dataset, analyze cycle 1 (or any cycle we choose), fit the RC equation, and then create and generate data and graphs for all three tasks.
 
 # Demo/Results
 <img width="525" height="351" alt="Screenshot 2026-08-06 at 9 23 25 PM" src="https://github.com/user-attachments/assets/9d7759f4-c7e7-4ddf-ac6a-cfbdb7385e6e" />
