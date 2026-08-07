@@ -13,8 +13,11 @@ To run the battery charging profile model, the MATLAB Curve Fitting Toolbox is n
 
 # How to reproduce results
 Step 1: Open BatteryCharging_StudentProjectTemplate.mlx in MATLAB.
+
 Step 2: Install the Curve Fitting Toolbox if not installed it yet.
+
 Step 3: Run the entire Live Script from task 1 to task 3 (entire section).
+
 Step 4: Finnally, the script will load the battery dataset, analyze cycle 1 (or any cycle we choose), fit the RC equation, and then create and generate data and graphs for all three tasks.
 
 # Demo/Results
