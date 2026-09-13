@@ -1,3 +1,7 @@
+# MATLAB Battery Charging Profile Analysis
+> **Project Type:** Team Project  
+> **Original Team Repository:** [ajkang1/BatteryProfileTeam2](https://github.com/ajkang1/BatteryProfileTeam2)
+
 # Team 2's Solution to MATLAB and Simulink Challenge Project 5: Modeling and Analyzing a Battery Charging Profile
 
 [Program link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
